@@ -1,0 +1,9 @@
+[{
+  "database": "db_name",
+  "index": "elastic-index-name",
+  "nodes": {
+    "table": "table-name",
+    "schema": "public",
+    "columns": []
+  }
+}]
